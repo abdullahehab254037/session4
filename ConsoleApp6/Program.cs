@@ -21,6 +21,15 @@
             //}
 
             #endregion
+
+            #region question2 
+            //Given int pages = 464;, use the ternary operator to store "Long Book" or "Short Book" into a variable sizeLabel
+            //(same rule as question 8: long if pages > 300). 
+            //string sizelabel;
+            //int pages = 464;
+            //sizelabel = pages > 300 ? "long book" : "short book";
+            //Console.WriteLine(sizelabel);
+            #endregion
         }
     }
 }
