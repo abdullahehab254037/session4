@@ -149,6 +149,16 @@
             //Console.WriteLine(sentence);
             #endregion
 
+            #region question15
+            //6-Build the same sentence as above, but using string interpolation ($"...").
+
+            //string title = "Clean Code";
+            //int pages = 464;
+            //
+            //string sentence = $"Book: {title}, Pages: {pages}";
+            //Console.WriteLine(sentence);
+            #endregion
+
 
         }
     }
