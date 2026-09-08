@@ -1,4 +1,6 @@
-﻿namespace ConsoleApp6
+﻿using System.Text;
+
+namespace ConsoleApp6
 {
     internal class Program
     {
@@ -167,6 +169,16 @@
             //
             //string sentence = string.Format("Book: {0}, Pages: {1}", title, pages);
             //Console.WriteLine(sentence);
+            #endregion
+
+            #region question12 
+            // Create a StringBuilder, Append() the text "Book List", then Append() "
+            // - Updated" onto the same object.Print the final result.
+            
+            //StringBuilder sb = new StringBuilder();
+            //sb.Append("Book List");
+            //sb.Append(" - Updated");
+            //Console.WriteLine(sb.ToString());
             #endregion
 
 
