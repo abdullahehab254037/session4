@@ -117,6 +117,19 @@
             //
             #endregion
 
+
+            #region question10
+            //1-Declare string title = "clean code";. Call title.ToUpper() and store it in a new variable upperTitle.
+            //Print both title and upperTitle to show that title did not change.
+            string title = "clean code";
+            string upper=title.ToUpper();
+            Console.WriteLine(upper);
+            Console.WriteLine(title);
+
+
+            #endregion
+
+
         }
     }
 }
